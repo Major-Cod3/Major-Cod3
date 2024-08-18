@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Major-Cod3&theme=radical&hide_border=falso&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![Major_$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Major-Cod3&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Cod3&layout=compact)
 
