@@ -2,7 +2,7 @@
 ### eu sou o Major
 ![Major_$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Major-Cod3&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Cod3&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Cod3&layout=compact&theme=radical)
 
 ![python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 <!--
