@@ -3,7 +3,8 @@
 ![python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 <img src="1720739445294.png" alt="personagem " width="100" height="100">
 <!--
-**Major-Cod3/Major-Cod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Major-Cod3/Major-Cod3
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
