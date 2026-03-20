@@ -1,20 +1,78 @@
-## Hi there 👋
-### eu sou o Major
-![python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
-<img src="1720739445294.png" alt="personagem " width="100" height="100">
-<!--
-**Major-Cod3/Major-Cod3
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240§ion=header&text=Major&fontSize=68&fontColor= ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" largura="100%"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Disponível para trabalho](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square)
+
+</div>
+
+### Sobre
+
+---
+
+### Pilha
+
+**Idiomas**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Idiomas"/>
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Frontend"/>
+
+**Backend e Bancos de Dados**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" alt="Backend e Bancos de Dados"/>
+
+---
+
+### Idiomas
+
+🌐 **Português (Brasil)**   ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🌐 **inglês**   ![Básico](https://img.shields.io/badge/-Basic-critical?style=flat-square) <br/>
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Major-Cod3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Cod3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Major-Cod3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### Troféus
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Major-Cod3&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
+
+</div>
+
+---
+
+### Atividade
+
+[![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=Major-Cod3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+![Citação](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Feito com <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a>  ·  <a href="https://github.com/Major-Cod3">github.com/Major-Cod3</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120§ion=footer" width="100%"/>
+
+</div>
