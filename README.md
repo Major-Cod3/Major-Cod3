@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240§ion=header&text=Major&fontSize=68&fontColor= ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" largura="100%"/>
-</div>
-
-<div align="center">
-
-![Disponível para trabalho](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square)
-
-</div>
 
 ### Sobre
 
@@ -19,9 +10,7 @@
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Idiomas"/>
 
 **Front-end**
-
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Frontend"/>
-
+---
 **Backend e Bancos de Dados**
 
 <img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" alt="Backend e Bancos de Dados"/>
