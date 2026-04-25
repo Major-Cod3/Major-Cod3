@@ -65,5 +65,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120§ion=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120§ion=footer" width="100%"/>
+<img src="https://www.letry.app/s/kkbtzzz" width="100%"/>
 </div>
