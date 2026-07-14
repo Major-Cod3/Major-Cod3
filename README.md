@@ -17,12 +17,6 @@
 
 ---
 
-### Idiomas
-
-🌐 **Português (Brasil)**   ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
-🌐 **inglês**   ![Básico](https://img.shields.io/badge/-Basic-critical?style=flat-square) <br/>
-
----
 
 ### Estatísticas do GitHub
 
